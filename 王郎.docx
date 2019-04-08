@@ -400,6 +400,7 @@ namespace life
             int i = 0;
             while (i<vs.Length)
             {
+c
                 if (vs[i]== restult)
                 {
                     string[] engstr = Enum.GetNames(typeof(Q));
