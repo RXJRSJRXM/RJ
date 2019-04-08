@@ -421,7 +421,7 @@ namespace life
             Predicate<string> isMan;
             isMan = IsMan;
             Console.WriteLine("蛋蛋是谁");
-            string result1 = isMan.Invoke("蛋蛋") ? "王韩!" : "杜楠!";
+            string result1 = isMan.Invoke("蛋蛋") ? "韩诺!" : "杜楠!";
             Console.WriteLine(result1);
      
    }
