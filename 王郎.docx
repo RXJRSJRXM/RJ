@@ -423,6 +423,33 @@ namespace life
             Console.WriteLine("蛋蛋是谁");
             string result1 = isMan.Invoke("蛋蛋") ? "王韩!" : "杜楠!";
             Console.WriteLine(result1);
-        }
+     
+   }
+
+第一次提交
+$ git remote set-url 存储库名字@github.com：用户名/存储库的名字.git
+$git push -u 存储库名字 masterr
+分支提交
+$ git push 存储库名字 分支名称:分支名称-1.1.10
+　　合并可以在github上进行	
+　　
+第二次提交
+出现错误：To github.com:RXJRSJRXM/RJ.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'git@github.com:RXJRSJRXM/RJ.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+解决：git pull 存储库名字 master
+Git push
+　　
+//下载克隆
+$git clone https://github.com/RXJRSJRXM/-.git
+
+
+
+
     }
 }
