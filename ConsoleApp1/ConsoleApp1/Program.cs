@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("111111");
+            Console.WriteLine("bafsdgfbhjasdgfajsdhfgb");
         }
     }
     class  People
