@@ -21,10 +21,10 @@ namespace ConsoleApp1
             {
                 Console.WriteLine(val);
             }
-        }
+   }
     }
     class  People
     {
-     Console.WriteLine("bafsdgdfsfbhjasdgfajsdhfgb11111111111111dsfagif");
+     Console.WriteLine("bafsdgdfsfbhjasdgff");
     }
 }
