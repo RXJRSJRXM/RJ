@@ -11,9 +11,8 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
 
-
-
          Console.WriteLine("蝙蝠中队--刘德华TTTTTTTTTTTT");
+
 int[] intarray1 = { 5, 15, 25, 30, 33, 40 };
          int[] intarray2 = { 10, 20, 30, 40, 50, 60, 70, 80, 90, 100 };
             var query12 =
@@ -27,7 +26,12 @@ int[] intarray1 = { 5, 15, 25, 30, 33, 40 };
 
 
 
-   Console.WriteLine("超兽武装--老乌龟TTTTTTTTTTTT");
+
+
+
+
+   Console.WriteLine("超兽武装--老乌龟LLLLLLLLLLLLLLLLLLL");
+
 }
     }
     class  People
@@ -36,6 +40,8 @@ int[] intarray1 = { 5, 15, 25, 30, 33, 40 };
 
 
 
-     Console.WriteLine("火灵飞--火系魔法师TTTTTTTTTTTTT");
-}
+
+     Console.WriteLine("火灵飞--火系魔法师LLLLLLLLLLLLLLLLLL");
+
+
 }
