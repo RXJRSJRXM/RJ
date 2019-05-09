@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-      Console.WriteLine("bafsdgdfsfbhjasdgff");
+      Console.WriteLine("吾有旧友屌似汝");
   int[] intarray1 = { 5, 15, 25, 30, 33, 40 };
             int[] intarray2 = { 10, 20, 30, 40, 50, 60, 70, 80, 90, 100 };
             var query12 =
