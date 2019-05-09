@@ -11,7 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
 
-         Console.WriteLine("蝙蝠中队--刘德华");
+         Console.WriteLine("蝙蝠中队--刘德华24354643242534423");
   int[] intarray1 = { 5, 15, 25, 30, 33, 40 };
          int[] intarray2 = { 10, 20, 30, 40, 50, 60, 70, 80, 90, 100 };
             var query12 =
@@ -23,12 +23,12 @@ namespace ConsoleApp1
                 Console.WriteLine(val);
             }
 
-   Console.WriteLine("超兽武装--老乌龟");
+   Console.WriteLine("超兽武装--老乌龟65445332141544326547");
    }
     }
     class  People
     {
 
-     Console.WriteLine("火灵飞--火系魔法师");
+     Console.WriteLine("火灵飞--火系魔法师42354325234565453243");
  }
 }
