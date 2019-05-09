@@ -10,7 +10,11 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+<<<<<<< HEAD
       Console.WriteLine("吾有旧友屌似汝");
+=======
+      Console.WriteLine("如今坟头长枯草");
+>>>>>>> 098e73767a66011eac9a62c87cf5091e841d4d64
   int[] intarray1 = { 5, 15, 25, 30, 33, 40 };
             int[] intarray2 = { 10, 20, 30, 40, 50, 60, 70, 80, 90, 100 };
             var query12 =
@@ -21,11 +25,11 @@ namespace ConsoleApp1
             {
                 Console.WriteLine(val);
             }
-   Console.WriteLine("bafsdgdfdsadassfbhjasdgff");
+   Console.WriteLine("吾有旧有屌似汝");
    }
     }
     class  People
     {
-     Console.WriteLine("bafsdgdfsfbhjasdgff");
+     Console.WriteLine("吾有旧有屌似汝,如今坟头长枯草");
     }
 }
