@@ -10,13 +10,9 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-
-
-      Console.WriteLine("肖恩年纪");
-   
-
-  int[] intarray1 = { 5, 15, 25, 30, 33, 40 };
-  int[] intarray2 = { 10, 20, 30, 40, 50, 60, 70, 80, 90, 100 };
+         Console.WriteLine("吸血蝙蝠之蝙蝠中队");
+         int[] intarray1 = { 5, 15, 25, 30, 33, 40 };
+         int[] intarray2 = { 10, 20, 30, 40, 50, 60, 70, 80, 90, 100 };
             var query12 =
                 from val1 in intarray1
                 join val2 in intarray2 on val1 % 5 equals val2 % 15
@@ -25,11 +21,11 @@ namespace ConsoleApp1
             {
                 Console.WriteLine(val);
             }
-   Console.WriteLine("刘邦本纪");
+   Console.WriteLine("超兽武装");
    }
     }
     class  People
     {
-     Console.WriteLine("锦衣卫");
+     Console.WriteLine("火灵飞");
     }
 }
