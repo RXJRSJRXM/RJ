@@ -13,7 +13,7 @@ namespace ConsoleApp1
 
 
 
-         Console.WriteLine("蝙蝠中队--刘德华lllllllllllllllllllllllllllll");
+         Console.WriteLine("蝙蝠中队--刘德华qqqqqqqqqqqqqqqqqqqq");
 int[] intarray1 = { 5, 15, 25, 30, 33, 40 };
          int[] intarray2 = { 10, 20, 30, 40, 50, 60, 70, 80, 90, 100 };
             var query12 =
@@ -27,7 +27,7 @@ int[] intarray1 = { 5, 15, 25, 30, 33, 40 };
 
 
 
-   Console.WriteLine("超兽武装--老乌龟lllllllllllllllllllllllllllllllll");
+   Console.WriteLine("超兽武装--老乌龟qqqqqqqqqqqqqqqqqqqqqqqq");
 }
     }
     class  People
@@ -35,6 +35,6 @@ int[] intarray1 = { 5, 15, 25, 30, 33, 40 };
 
 
 
-     Console.WriteLine("火灵飞--火系魔法师lllllllllllllllllllllllll");
+     Console.WriteLine("火灵飞--火系魔法师qqqqqqqqqqqqqqqqqqqqqq");
 }
 }
