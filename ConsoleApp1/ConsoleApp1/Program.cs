@@ -13,7 +13,11 @@ namespace ConsoleApp1
 
 
 
+<<<<<<< HEAD
          Console.WriteLine("蝙蝠中队--刘德华IIIIIIIIIIIIIIIIII");
+=======
+         Console.WriteLine("蝙蝠中队--刘德华qqqqqqqqqqqqqqqqqqqq");
+>>>>>>> 408fc6ef06c7501e823ee302c29cd6a7ced8dd6d
 int[] intarray1 = { 5, 15, 25, 30, 33, 40 };
          int[] intarray2 = { 10, 20, 30, 40, 50, 60, 70, 80, 90, 100 };
             var query12 =
@@ -27,7 +31,11 @@ int[] intarray1 = { 5, 15, 25, 30, 33, 40 };
 
 
 
+<<<<<<< HEAD
    Console.WriteLine("超兽武装--老乌龟IIIIIIIIIIIIIIIIIIIIIIIII");
+=======
+   Console.WriteLine("超兽武装--老乌龟qqqqqqqqqqqqqqqqqqqqqqqq");
+>>>>>>> 408fc6ef06c7501e823ee302c29cd6a7ced8dd6d
 }
     }
     class  People
@@ -35,6 +43,10 @@ int[] intarray1 = { 5, 15, 25, 30, 33, 40 };
 
 
 
+<<<<<<< HEAD
      Console.WriteLine("火灵飞--火系魔法师IIIIIIIIIIIIIIIIIIIIII");
+=======
+     Console.WriteLine("火灵飞--火系魔法师qqqqqqqqqqqqqqqqqqqqqq");
+>>>>>>> 408fc6ef06c7501e823ee302c29cd6a7ced8dd6d
 }
 }
