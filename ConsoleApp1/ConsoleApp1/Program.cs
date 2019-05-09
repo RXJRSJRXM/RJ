@@ -21,11 +21,11 @@ namespace ConsoleApp1
             {
                 Console.WriteLine(val);
             }
-   Console.WriteLine("bafsdgdfdsadassfbhjasdgff");
+   Console.WriteLine("吾有旧有屌似汝");
    }
     }
     class  People
     {
-     Console.WriteLine("bafsdgdfsfbhjasdgff");
+     Console.WriteLine("吾有旧有屌似汝,如今坟头长枯草");
     }
 }
