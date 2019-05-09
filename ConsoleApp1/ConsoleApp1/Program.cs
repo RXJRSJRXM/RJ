@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-         Console.WriteLine("吸血蝙蝠之蝙蝠中队");
+         Console.WriteLine("吸血蝙蝠之蝙蝠中队 51525303340");
          int[] intarray1 = { 5, 15, 25, 30, 33, 40 };
          int[] intarray2 = { 10, 20, 30, 40, 50, 60, 70, 80, 90, 100 };
             var query12 =
@@ -21,11 +21,11 @@ namespace ConsoleApp1
             {
                 Console.WriteLine(val);
             }
-   Console.WriteLine("超兽武装");
+   Console.WriteLine("超兽武装 102030405060708090100");
    }
     }
     class  People
     {
-     Console.WriteLine("火灵飞");
+     Console.WriteLine("火灵飞 102030405060708090100");
     }
 }
