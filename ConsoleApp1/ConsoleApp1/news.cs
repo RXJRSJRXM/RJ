@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
 
           Console.WriteLine("
+git 应怎样进行提交
 git init 创建git仓库，本地仓库
 git add filename   将本地工作区文件加入缓存区
 
