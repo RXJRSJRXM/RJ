@@ -10,6 +10,7 @@ namespace ConsoleApp1
     {
         public static void master() 
         {
+
           Console.WriteLine("git add filename   å°†æœ¬åœ°å·¥ä½œåŒºæ–‡ä»¶åŠ å…¥ç¼“å­˜åŒº
 
 git commit filename -m â€˜æäº¤æ–‡ä»¶æ³¨é‡Šâ€˜
@@ -46,6 +47,10 @@ git push origin  æ¨é€ä»£ç åˆ°è¿œç¨‹ä»“åº“
 
           int[] intarray1 = { 5, 15, 25, 30, 33, 40 };
           int[] intarray2 = { 10, 20, 30, 40, 50, 60, 70, 80, 90, 100 };
+
+       Console.WriteLine("Ò¶×Óé¹,ÁõµÂ»ª£¬ÕÅÑ§ÓÑ£¬ÀèÃ÷£¬¹ù¸»³Ç£¬ÁÖÖ¾Ó±£¬³Â»İÃ÷,´ób¸ç,ÎçÂí,ÕÅ¹úÈÙ,ÀîÑ°»¶");
+        int[] intarray1 = { 5, 15, 25, 30, 33, 40 };
+         int[] intarray2 = { 10, 20, 30, 40, 50, 60, 70, 80, 90, 100 };
             var query12 =
                 from val1 in intarray1
                 join val2 in intarray2 on val1 % 5 equals val2 % 15
