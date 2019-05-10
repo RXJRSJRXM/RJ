@@ -19,7 +19,7 @@ namespace ConsoleApp1
                 select new { VAL1 = val1, VAL2 = val2 };
             foreach (var val in query12)
             {
-                Console.WriteLine(val);
+                Console.WriteLine(ooo);
             }
 
         }
