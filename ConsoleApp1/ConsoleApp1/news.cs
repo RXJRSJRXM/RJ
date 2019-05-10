@@ -47,14 +47,12 @@ git push origin  推送到代码到远程仓库
 
           Console.WriteLine("叶子楣,林志玲,刘德华,武汉,黄石,黄冈,黄渤,王迅,孙红雷，黄磊，陈惠明,大b哥,午马,张国荣,李寻欢");
 
-          int[] intarray1 = { 5, 15, 25, 30, 33, 40 };
-          int[] intarray2 = { 10, 20, 30, 40, 50, 60, 70, 80, 90, 100 };
-
+      
 
        Console.WriteLine("画一笔,干将铸剑");
 
        Console.WriteLine("回家是一种信仰,没有一种人不想回家");
-        int[] intarray1 = { 5, 15, 25, 30, 33, 40 };
+        int[] intarray1 = { 1, 5, 2, 3, 34, 4 };
          int[] intarray2 = { 10, 20, 30, 40, 50, 60, 70, 80, 90, 100 };
             var query12 =
                 from val1 in intarray1
