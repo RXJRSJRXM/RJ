@@ -12,7 +12,7 @@ namespace ConsoleApp1
         {
 
           Console.WriteLine("
-git init 
+git init 创建git仓库
 git add filename   将本地工作区文件加入缓存区
 
 git commit filename -m ‘提交文件注释‘
@@ -33,7 +33,7 @@ git pull origin   再次拉取文件  ， 提示 Aready up to date. 证明拉取
 
 git status  查看工作区，已恢复正常没有冲突。
 
-git push origin  推送代码到远程仓库
+git push origin  推送到代码到远程仓库
 
  
 
