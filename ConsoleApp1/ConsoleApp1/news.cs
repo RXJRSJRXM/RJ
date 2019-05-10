@@ -51,7 +51,7 @@ git push origin  推送代码到远程仓库
           int[] intarray2 = { 10, 20, 30, 40, 50, 60, 70, 80, 90, 100 };
 
 
-       Console.WriteLine("Ҷ���,���»�����ѧ�ѣ������������ǣ���־ӱ���»���,��b��,����,�Ź���,��Ѱ��");
+       Console.WriteLine("画一笔");
 
        Console.WriteLine("回家是一种信仰,没有一种人不想回家");
         int[] intarray1 = { 5, 15, 25, 30, 33, 40 };
