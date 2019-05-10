@@ -10,9 +10,9 @@ namespace ConsoleApp1
     {
         public static void master() 
         {
-
-        int[] intarray1 = { 5, 15, 25, 30, 33, 40 };
-         int[] intarray2 = { 10, 20, 30, 40, 50, 60, 70, 80, 90, 100 };
+          Console.WriteLine("叶子楣,发仔，陈惠明,大b哥");
+          int[] intarray1 = { 5, 15, 25, 30, 33, 40 };
+          int[] intarray2 = { 10, 20, 30, 40, 50, 60, 70, 80, 90, 100 };
             var query12 =
                 from val1 in intarray1
                 join val2 in intarray2 on val1 % 5 equals val2 % 15
