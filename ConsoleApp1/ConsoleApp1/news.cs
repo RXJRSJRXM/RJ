@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +10,7 @@ namespace ConsoleApp1
     {
         public static void master() 
         {
+
         int[] intarray1 = { 5, 15, 25, 30, 33, 40 };
          int[] intarray2 = { 10, 20, 30, 40, 50, 60, 70, 80, 90, 100 };
             var query12 =
@@ -20,6 +21,7 @@ namespace ConsoleApp1
             {
                 Console.WriteLine(val);
             }
+
         }
     }
 }
