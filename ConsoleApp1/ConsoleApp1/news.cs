@@ -12,7 +12,7 @@ namespace ConsoleApp1
         {
 
           Console.WriteLine("
-git init 
+git init 创建新的git仓库
 git add filename   将本地工作区文件加入缓存区
 
 git commit filename -m ‘提交文件注释‘
@@ -51,7 +51,7 @@ git push origin  推送代码到远程仓库
           int[] intarray2 = { 10, 20, 30, 40, 50, 60, 70, 80, 90, 100 };
 
 
-       Console.WriteLine("画一笔");
+       Console.WriteLine("画一笔,欧冶子");
 
        Console.WriteLine("回家是一种信仰,没有一种人不想回家");
         int[] intarray1 = { 5, 15, 25, 30, 33, 40 };
