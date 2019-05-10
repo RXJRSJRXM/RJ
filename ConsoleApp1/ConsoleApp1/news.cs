@@ -53,6 +53,7 @@ git push origin  推送到代码到远程仓库
        Console.WriteLine("回家是一种信仰,没有一种人不想回家");
         int[] intarray1 = { 9，7，5，4，8，2，4，7，2};
          int[] intarray2 = { 8，9，7，1，2，5，44，55，47};
+
             var query12 =
                 from val1 in intarray1
                 join val2 in intarray2 on val1 % 5 equals val2 % 15
