@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         public static void master() 
         {
-        
+        Console.write("慢悠悠")
         }
     }
 }
