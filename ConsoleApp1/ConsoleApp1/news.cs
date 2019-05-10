@@ -11,8 +11,8 @@ namespace ConsoleApp1
         public static void master() 
         {
 
-          Console.WriteLine("
-
+          Console.WriteLine(" 
+ git 提交准则                           
 git init 创建git仓库，本地仓库
 git add filename   将本地工作区文件加入缓存区
 
@@ -35,8 +35,6 @@ git pull origin   再次拉取文件  ， 提示 Aready up to date. 证明拉取
 git status  查看工作区，已恢复正常没有冲突。
 
 git push origin  推送到代码到远程仓库
-
- 
 
 如果提交单个文件出错：fatal: cannot do a partial commit during a merge.
 
