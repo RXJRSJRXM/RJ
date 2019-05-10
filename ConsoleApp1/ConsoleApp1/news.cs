@@ -36,8 +36,6 @@ git status  查看工作区，已恢复正常没有冲突。
 
 git push origin  推送到代码到远程仓库
 
- 
-
 如果提交单个文件出错：fatal: cannot do a partial commit during a merge.
 
 这表示不能部分提交代码，
