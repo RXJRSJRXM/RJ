@@ -55,8 +55,8 @@ git push origin  推送到代码到远程仓库
        Console.WriteLine("画一笔,干将铸剑");
 
        Console.WriteLine("回家是一种信仰,没有一种人不想回家");
-        int[] intarray1 = {  5,15,25,3,5,45  };
-         int[] intarray2 = { 10, 20, 30, 40, 50, 60, 70, 80, 90, 100 };
+        int[] intarray1 = {  22,56,1,3,5,3,5,67,23  };
+         int[] intarray2 = { 1,24,5,3,5,6,7,2,43 };
             var query12 =
                 from val1 in intarray1
                 join val2 in intarray2 on val1 % 5 equals val2 % 15
