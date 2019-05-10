@@ -10,6 +10,7 @@ namespace ConsoleApp1
     {
         public static void master() 
         {
+       Console.WriteLine("叶子楣,刘德华，张学友，黎明，郭富城，林志颖，陈惠明,大b哥,午马,张国荣,李寻欢");
         int[] intarray1 = { 5, 15, 25, 30, 33, 40 };
          int[] intarray2 = { 10, 20, 30, 40, 50, 60, 70, 80, 90, 100 };
             var query12 =
