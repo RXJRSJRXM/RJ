@@ -12,7 +12,7 @@ namespace ConsoleApp1
         {
 
           Console.WriteLine("
-git发挥我们应怎样进行提交
+git发挥薛定谔的猫是什么我们应怎样进行提交
 git init 创建git仓库，本地仓库
 git add filename   将本地工作区文件加入缓存区
 
