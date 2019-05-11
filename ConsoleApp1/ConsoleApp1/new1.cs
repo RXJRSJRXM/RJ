@@ -12,7 +12,11 @@ namespace ConsoleApp1
         {
 
 
+
           Console.WriteLine("同九义，汝何秀
+
+
+          Console.WriteLine("天将降大任与斯人也
 
 
 git发挥薛定谔的猫与特斯拉是什么我们应怎样进行提交
