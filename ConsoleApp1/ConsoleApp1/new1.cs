@@ -11,7 +11,7 @@ namespace ConsoleApp1
         public static void master() 
         {
 
-          Console.WriteLine("
+          Console.WriteLine("休尼梅
 
 git发挥薛定谔的猫与特斯拉是什么我们应怎样进行提交
 
