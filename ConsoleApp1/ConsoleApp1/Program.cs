@@ -10,7 +10,10 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-
+         int a=32；
+         int b=22；
+         int c=a+b;
+         console.writeLine(c);
 
          Console.WriteLine("蝙蝠中队--刘德华11 11 11 11 11 11");
 
